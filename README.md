@@ -101,7 +101,3 @@ python evaluacija.py
 
 Kvalitet odgovora ocenjuje model-sudija (Mistral) po četiri kriterijuma na skali 1–5:
 relevantnost, utemeljenost u dokumentaciji, kompletnost i kvalitet jezika.
-
-## Autor
-
-Sara Ratković – [link ka LinkedIn profilu]
