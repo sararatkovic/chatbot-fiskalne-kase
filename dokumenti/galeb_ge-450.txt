@@ -1,0 +1,36 @@
+MODEL: GALEB GE-450
+TIP: Stacionarna fiskalna kasa sa fizičkom tastaturom
+
+OPIS I NAMENA:
+GE-450 je Android fiskalna kasa napravljena za radna mesta gde je brzina i preciznost kucanja važnija od ekrana osetljivog na dodir. Umesto touch-screen unosa, oslanja se na izdržljivu fizičku tastaturu, što je veoma korisno u prljavim ili vlažnim uslovima rada (npr. rad sa hranom, testom, mesom).
+
+NAJPOGODNIJA ZA:
+- Pekare
+- Mesare
+- Piljarnice
+- Manje maloprodajne radnje sa čestim, brzim kucanjem artikala
+
+PREDNOSTI:
+- Fizički tasteri smanjuju greške pri kucanju u odnosu na dodirne ekrane
+- Kompaktna i robusna konstrukcija, zauzima malo mesta na pultu
+- Izdržava celodnevnu, intenzivnu upotrebu bez pregrevanja
+- Garancija 24 meseca
+
+TEHNIČKE SPECIFIKACIJE:
+- Glavni ekran: 7" LCD, rezolucija 1024x600
+- Ekran osetljiv na dodir: 7" kapacitivni multitouch
+- Ekran za kupca: LED sa 8 karaktera / LCD sa 2 reda po 20 karaktera
+- Štampač: 58mm sa ručnim sekačem
+- Procesor: RK3066 Quad-core Cortex-A55, do 2.0GHz
+- Grafika: ARM Mali-G52
+- RAM memorija: 4GB
+- Interno skladište: 24GB
+- Operativni sistem: Android 11
+- Ulazi/izlazi: 1x napajanje, 1x DC port, 1x port za fioku za novac, 1x COM port, 4x USB, 1x mrežni (LAN) port
+- Napajanje: 12V / 5A
+- Težina: 2.5 kg neto / 3.74 kg bruto
+- Dimenzije: 330 x 299 x 104 mm
+
+KONEKTIVNOST: LAN (mrežni kabl), USB uređaji, COM port. Nema podataka o ugrađenom WiFi/4G modulu na osnovu zvaničnog opisa - povezuje se pre svega žično.
+
+TIP POSLOVANJA: Stacionarna kasa, nije namenjena za mobilan rad na terenu.

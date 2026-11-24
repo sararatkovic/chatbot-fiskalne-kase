@@ -1,0 +1,8 @@
+streamlit==1.61.1
+langchain-core==1.5.3
+langchain-community==0.4.2
+langchain-text-splitters==1.1.2
+langchain-ollama==1.1.0
+langchain-chroma==1.1.0
+langgraph==1.2.10
+pydantic==2.13.4

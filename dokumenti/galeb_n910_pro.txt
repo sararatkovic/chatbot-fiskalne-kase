@@ -1,0 +1,36 @@
+MODEL: GALEB N910 PRO
+TIP: Kompaktna mobilna fiskalna kasa
+
+OPIS I NAMENA:
+N910 PRO je kompaktna, mobilna fiskalna kasa namenjena poslovanju u pokretu. Kombinuje snažan procesor, dovoljno memorije i Android tehnologiju, uz integrisan termalni štampač i dvostruku kameru za skeniranje bar kodova i QR plaćanja.
+
+NAJPOGODNIJA ZA:
+- Restorane, kafiće i barove (naplata kod stola)
+- Prodavnice i supermarkete
+- Apoteke i drogerije
+- Frizerske i kozmetičke salone
+- Trafike i kioske
+- Dostavu (zbog baterije i mobilnosti)
+
+PREDNOSTI:
+- Kompaktnost - lako se prenosi i drži u ruci
+- Autonomija - baterija traje do 8 sati neprekidnog rada
+- Integrisan printer za odmah izdavanje računa na licu mesta
+- Ugrađena kamera za skeniranje bar kodova i QR plaćanja
+- Podržava avansnu prodaju i raspodelu stolova (za ugostitelje)
+- Podržava kartično plaćanje (opciono)
+- Pristupačna cena - jedna od povoljnijih mobilnih kasa u Galeb ponudi
+- Garancija 24 meseca
+
+TEHNIČKE SPECIFIKACIJE:
+- Ekran: 5.5" HD, osetljiv na dodir, virtuelna tastatura
+- Kamera: dvostruka (za skeniranje SKU/bar kodova i QR kodova)
+- Bezbednosni element: SAM kartica formata 2FF
+- Baterija: autonomija do 8 sati neprekidnog rada
+- Štampač: integrisan termalni
+
+NAPOMENA: Za detaljnu tehničku tabelu (procesor, RAM, tačna rezolucija) preporučuje se provera zvanične stranice ili prodajnog mesta, jer proizvođač na sajtu ističe pre svega funkcionalne karakteristike.
+
+KONEKTIVNOST: Mobilna, prenosiva kasa - radi na bateriji, pogodna za rad bez fiksnog napajanja.
+
+TIP POSLOVANJA: Mobilna fiskalna kasa - idealna kada je potrebna niska cena ulaska i osnovna mobilnost (za razliku od N950 koja ima više naprednih funkcija i jaču bateriju).

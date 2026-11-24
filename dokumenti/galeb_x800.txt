@@ -1,0 +1,40 @@
+MODEL: GALEB X800
+TIP: Fiskalni terminal sa dva ekrana (prodavac + kupac)
+
+OPIS I NAMENA:
+X800 se izdvaja po tome što ima dva ekrana - veliki HD ekran za prodavca i poseban displej okrenut ka kupcu. Kupac tako ima jasan uvid u svaku stavku računa tokom kucanja, što povećava transparentnost i poverenje pri naplati.
+
+NAJPOGODNIJA ZA:
+- Lokalne markete i prodavnice mešovite robe
+- Apoteke i drogerije (prikaz cena i popusta kupcu)
+- Pekare i poslastičarnice (kompaktan dizajn za uske pultove)
+- Specijalizovane radnje (vinoteke, gift shopovi)
+
+PREDNOSTI:
+- Dvostruki ekran gradi poverenje kupca i smanjuje greške pri naplati
+- Kompaktan dizajn pogodan za uske pultove
+- Podržava sve vrste kartičnog i beskontaktnog plaćanja
+- Velika baterija (6000mAh) za dug rad bez punjenja
+
+TEHNIČKE SPECIFIKACIJE:
+- Operativni sistem: Android 10
+- Procesor: Octa-Core Cortex A53, 1.8GHz
+- Memorija: 2GB RAM + 16GB interne memorije, microSD slot do 256GB
+- Glavni ekran (prodavac): 8" vertikalni IPS, rezolucija 800x1280, multi-touch
+- Ekran za kupca: 5" horizontalni IPS, rezolucija 800x480, multi-touch
+- Bežična komunikacija: WiFi (2.4G i 5G), Bluetooth (2.1/3.0/4.2), mobilna mreža 4G/3G/2G
+- Čitač magnetnih kartica: trostruka staza, ISO 7810/7811/7813
+- Čitač pametnih kartica: EMV L1/L2, ISO 7816
+- Beskontaktni čitač: EMV Contactless, ISO 14443 Tip A/B, Mifare, Felica
+- Kamera: prednja i zadnja (2MP), podržava 1D/2D kodove (QR plaćanje)
+- Štampač: termalni, brzina 80mm/s, širina papira 58mm
+- Baterija: litijum-jonska, 3.8V / 6000mAh / 22.8Wh
+- Portovi: 1x USB Type-C (OTG)
+- Slotovi za kartice: 2x SIM, 1x SAM, 1x SD
+- Dimenzije i težina: 274.9 x 123.4 x 101.6 mm, 895g sa baterijom
+- Radna temperatura: -10°C do 50°C
+- Sertifikati: PCI PTS 6.x, EMV, PayPass, payWave, CE, RoHS
+
+KONEKTIVNOST: WiFi, Bluetooth, 4G/3G/2G mobilna mreža.
+
+TIP POSLOVANJA: Prvenstveno stacionarna upotreba na pultu, gde je bitan direktan kontakt i transparentnost prema kupcu, ali zahvaljujući bateriji može raditi i bez stalnog napajanja.

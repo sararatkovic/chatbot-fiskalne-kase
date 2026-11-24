@@ -1,0 +1,35 @@
+MODEL: GALEB GE 10 BOX
+TIP: Stacionarna fiskalna kasa sa velikim ekranom
+
+OPIS I NAMENA:
+GE 10 BOX je stacionarno fiskalno rešenje koje kombinuje Android uređaj sa velikim, 10.1" ekranom i ugrađenim termalnim štampačem. Zamenjuje kombinaciju stare kase-registra i fiskalnog printera, i preporučuje se korisnicima koji su ranije koristili "srednje" kase ili fiskalne printere.
+
+NAJPOGODNIJA ZA:
+- Restorane, kafiće i barove
+- Prodavnice i supermarkete
+- Apoteke i drogerije
+- Frizerske i kozmetičke salone
+- Trafike i kioske
+- Sva prodajna mesta sa većim brojem artikala i čestim prometom
+
+PREDNOSTI:
+- Veliki 10.1" ekran visoke rezolucije (1280x800), pregledna radna površina
+- Brz termalni štampač - preko 200 računa na sat
+- Velika memorija - podržava kataloge sa hiljadama artikala
+- eFuse tehnologija za sigurnost i kontrolu softvera
+- Podržava avansnu prodaju i raspodelu stolova (za ugostitelje)
+- Niži troškovi održavanja u odnosu na kombinaciju kasa + printer
+- Moderan, elegantan dizajn koji se uklapa u enterijer
+
+TEHNIČKE SPECIFIKACIJE:
+- Ekran: 10.1" IPS, rezolucija 1280x800, otporan na habanje
+- Operativni sistem: Android 10.x sa eFuse tehnologijom
+- Procesor: četvorojezgarni (Cortex-A53, 2GHz)
+- Memorija: 2GB RAM + 8GB interne memorije
+- Štampač: ugrađeni termalni, širina rolne 58mm, brzina preko 200 računa/sat, povezan preko USB
+- Bezbednosni element: SAM kartica formata 1FF (veličina kreditne kartice), eksterni čitač uključen u paket
+- Fizički oblik: BOX konfiguracija (uređaj + eksterni čitač kartice)
+
+KONEKTIVNOST: Namenjena stacionarnoj upotrebi na fiksnoj lokaciji, sa stabilnom internet konekcijom.
+
+TIP POSLOVANJA: Stacionarna kasa za prodajna mesta sa velikim brojem artikala i čestom, brzom obradom računa - npr. veći restorani ili prodavnice sa gužvom.

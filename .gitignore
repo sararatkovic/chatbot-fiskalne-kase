@@ -1,0 +1,5 @@
+baza_znanja/
+__pycache__/
+venv/
+dokumenti.zip
+vezba_langgraph.py

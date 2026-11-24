@@ -1,0 +1,68 @@
+TIP DOKUMENTA: Rešavanje problema (troubleshooting)
+ODNOSI SE NA: Sve Android Galeb fiskalne kase (GE-450, N950, X800, N910 PRO, GE 10 BOX)
+
+OPIS:
+Ovaj dokument sadrži uobičajene probleme sa kojima se korisnici Galeb Android
+fiskalnih kasa susreću u svakodnevnom radu, sa predloženim koracima za
+rešavanje. Pošto svi ovi modeli rade na Android operativnom sistemu i dele
+sličnu arhitekturu (ekran osetljiv na dodir, termalni štampač, bežična
+konekcija), većina problema i rešenja je zajednička za sve modele.
+
+PROBLEM: Kasa se ne uključuje
+REŠENJE:
+- Proveri da li je kabl za napajanje čvrsto povezan i u uređaj i u utičnicu
+- Ako je model sa baterijom (N950, N910 PRO, X800), proveri da li je baterija
+  napunjena - ostavi uređaj na punjenju najmanje 30 minuta pre ponovnog pokušaja
+- Pritisni i drži dugme za uključivanje 8-10 sekundi (prinudni restart)
+- Ako ništa od ovoga ne pomogne, kontaktiraj Galeb tehničku podršku (0800 111 123)
+
+PROBLEM: Štampač ne štampa / traka papira zaglavljena
+REŠENJE:
+- Proveri da li je rolna termalnog papira pravilno postavljena (termalna strana
+  papira treba da bude okrenuta ka glavi štampača)
+- Otvori poklopac za papir i proveri da nema zaglavljenih komadića papira
+- Proveri da papir nije istrošen (kod termalnog papira, provodljiva/termalna
+  strana gubi kvalitet ako je papir star ili nepravilno skladišten)
+- Koristi isključivo termalni papir preporučene širine (58mm kod većine modela)
+- Ako se štampač i dalje ne oglašava, isključi i ponovo uključi uređaj
+
+PROBLEM: Nema WiFi ili mobilne mreže / kasa ne šalje podatke Poreskoj upravi
+REŠENJE:
+- Proveri da li je WiFi uključen u podešavanjima uređaja i povezan na ispravnu mrežu
+- Kod modela sa mobilnom mrežom (SIM karticom), proveri da li ima signala i
+  da je SIM kartica pravilno postavljena
+- Restartuj ruter/mrežni uređaj ako je WiFi signal slab ili nestabilan
+- Fiskalni računi se čuvaju lokalno i šalju automatski čim se konekcija
+  uspostavi - kratak prekid konekcije ne znači gubitak podataka
+- Ako problem potraje duže od nekoliko sati, kontaktiraj tehničku podršku
+
+PROBLEM: Greška prilikom fiskalizacije ili izdavanja računa
+REŠENJE:
+- Ovakve greške najčešće zahtevaju intervenciju ovlašćenog servisera - ne
+  pokušavaj samostalno da menjaš fiskalne parametre
+- Zapiši tačan tekst/kod greške prikazan na ekranu pre kontaktiranja podrške
+- Kontaktiraj Galeb tehničku podršku (0800 111 123) ili ovlašćenog servisera
+  koji je izvršio fiskalizaciju uređaja
+- NE pokušavaj da otvaraš ili uklanjaš fiskalnu plombu - to sme samo ovlašćeno lice
+
+PROBLEM: Ekran se zamrzava ili sporo reaguje
+REŠENJE:
+- Restartuj uređaj (drži dugme za uključivanje, zatim izaberi "Restart" ako je
+  ponuđeno, ili sačekaj 8-10 sekundi za prinudno gašenje pa ponovo uključi)
+- Proveri da li je dostupno ažuriranje softvera u podešavanjima uređaja
+- Izbegavaj instaliranje aplikacija koje nisu deo zvaničnog Galeb softvera,
+  jer mogu usporiti rad uređaja
+- Ako se problem ponavlja često, kontaktiraj tehničku podršku radi provere
+
+PROBLEM: Kartično plaćanje ne prolazi (modeli sa ugrađenim čitačem - N950, X800)
+REŠENJE:
+- Proveri da li je kartica pravilno provučena/prislonjena (u zavisnosti od tipa
+  plaćanja - kontaktno, beskontaktno ili čip)
+- Proveri internet konekciju - kartično plaćanje zahteva aktivnu vezu sa bankom
+- Ako beskontaktno plaćanje ne radi, probaj kontaktno (ubacivanje čipa kartice)
+- Za trajne probleme sa čitačem kartica, kontaktiraj banku izdavaoca POS
+  terminala ili Galeb podršku
+
+KONTAKT ZA TEHNIČKU PODRŠKU:
+Galeb Call Centar: 0800 111 123 (dostupno 24/7)
+Podrška je uključena uz svaki uređaj, zajedno sa detaljnim korisničkim uputstvom.
